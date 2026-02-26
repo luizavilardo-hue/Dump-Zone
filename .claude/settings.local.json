@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(cp:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(python3:*)",
+      "Bash(brew list:*)",
+      "Bash(curl:*)",
+      "Bash(xcode-select:*)",
+      "Bash(npx vercel:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
